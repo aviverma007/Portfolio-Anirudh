@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-anirudh-orcin.vercel.app/" target="_blank">(PENDING)</a>
+  <a href="https://portfolio-anirudh-orcin.vercel.app/" target="_blank">PORTFOLIO</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
