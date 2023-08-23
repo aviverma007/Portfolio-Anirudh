@@ -3,7 +3,7 @@
   <a href="https://portfolio-anirudh-orcin.vercel.app/" target="_blank">PORTFOLIO</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+<!--   <img alt="Demo" src="./Images/readme-img1.png" /> -->
 </div>
 
 <br/>
